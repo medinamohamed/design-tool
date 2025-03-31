@@ -86,4 +86,6 @@
   transition: background-color 0.2s;
 }
 
-.regenerate-btn:h
+.regenerate-btn:hover {
+  background: #0056b3;
+} 
