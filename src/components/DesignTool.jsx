@@ -103,7 +103,3 @@ const DesignTool = () => {
         Regenerate Design
       </button>
     </div>
-  );
-};
-
-export default DesignTool; 
