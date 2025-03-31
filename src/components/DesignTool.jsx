@@ -86,13 +86,13 @@ const DesignTool = () => {
         <div className="font-pair">
           <div className="font-info">
             <h3>Main Font: {fonts.main}</h3>
-            <h4 style={{ fontFamily: fonts.main }}>
+            <h4 style={{ fontFamily: fonts.main, color: '#000000' }}>
               The quick brown fox jumps over the lazy dog
             </h4>
           </div>
           <div className="font-info">
             <h3>Sub Font: {fonts.sub}</h3>
-            <p style={{ fontFamily: fonts.sub }}>
+            <p style={{ fontFamily: fonts.sub, color: '#000000' }}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
